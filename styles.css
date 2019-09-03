@@ -8,7 +8,7 @@ h1{
     color: #663399;
 }
 
-h3,h5{
+h2,h3,h5{
     color: #4169E1;
 }
 
@@ -29,3 +29,17 @@ hr{
 img{
     border-radius: 50%;
 }
+
+input, textarea{
+    background: wheat;
+}
+
+.msg{
+    display: flex;
+    flex-direction: column;
+}
+
+.frm{
+    width: 80%;
+}
+
